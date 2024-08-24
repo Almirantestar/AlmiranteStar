@@ -1,5 +1,10 @@
 ## Olá! Eu sou o Almirante Mateus 🖐️ 
-Estudante e Desenvolvedor Front-end
+
+Desenvolvedor Web Full Stack 
+
+Engenheiro Cartógrafo e Agrimensor
+
+Cursando Análise e Desenvolvimento de Sistemas
 
 [![LinkeIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/almirante-mateus-1b4617190/)
 
